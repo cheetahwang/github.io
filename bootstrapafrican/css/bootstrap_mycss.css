@@ -1,0 +1,41 @@
+.webtitle {
+	margin-top: 20px;
+	padding: 60px;
+	background-color: #eeeeee;
+}
+
+.ptitle{
+	font-size: 13pt;
+	color: #6f6f6f;
+}
+
+.hero-feature {
+    margin-bottom: 70px;
+}
+
+
+
+h4{
+	font-weight: bold;
+	color: #6f6f6f;
+}
+
+.contenta{
+	font-size: 14pt;
+}
+
+.colleft{
+	background-color: orange;
+}
+.colright{
+	background-color: red;
+}
+
+.colbuttom1{
+	background-color: blue;
+}
+
+.colbuttom2{
+	background-color: green;
+}
+
