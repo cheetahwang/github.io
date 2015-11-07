@@ -1,0 +1,18 @@
+.header{
+	background-image: url(../img/header-bg.jpg);
+}
+
+.btntext{
+	color: #ffffff;
+}
+
+.h1 {
+	margin: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.h2 {
+	font-family: serif; 
+	font-style: italic;
+}
