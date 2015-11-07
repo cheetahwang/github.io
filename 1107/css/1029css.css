@@ -1,0 +1,26 @@
+#portfolio {
+	background-color: #42dca3;
+}
+
+.btngreen {
+	background-color: #42dca3; 
+}
+
+p {
+	font-family: 'PT Serif Caption', serif;
+	font-style: italic;
+	font-size: 12.5pt;
+}
+
+.cont {
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+.headcont {
+	font-family: 'Julius Sans One', sans-serif;
+	font-style: normal;
+}
+
+h2 {
+	font-family: 'Julius Sans One', sans-serif;
+}
